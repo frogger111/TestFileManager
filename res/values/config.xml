@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <!-- Sharedpreferences -->
+    <string name="DOWNLOAD_SHAREDPREFERENCES">download_sharedpreferences</string>
+    
+    <string name="TEMP">main.tmp</string>
+    
+</resources>

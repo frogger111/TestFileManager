@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileManagerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="connection_problem">Problem z połączeniem internetowym.</string>
+    <string name="invalid_mimetype">Niepoprawny format pliku.</string>
+    <string name="invalid_url">Nie poprawny url. http://www.example.com</string>
+    <string name="canceled">Pobieranie zostało przerwane.</string>
+    <string name="overide_file">Plik istnieje. Czy nadpisać?</string>
+    <string name="download_interupted">Pobieranie zostało przerwane. Powtórzyć?</string>
+    <string name="unknown_host">Nie odnaleziono hosta lub pliku.</string>
+    
+    
+    
+    <string name="ok">ok</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    
+    
+    
+    <string-array name="MIMETYPE">
+		<item>image/png</item>
+		<item>audio/mpeg</item>
+		<item>text/plain</item>
+		<item>application/pdf</item>
+		<item>application/x-compressed</item>
+		<item>application/zip</item>
+		<item>application/x-zip-compressed</item>
+	</string-array>
+		<string name="download">Pobierz</string>
+    
+</resources>
